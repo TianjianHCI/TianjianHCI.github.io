@@ -25,7 +25,7 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 # 🔥 News
 - *2025.11.20*: Attend ICHEC 2025 in Singapore.
 - *2025.08.20*: Join HKUST(GZ) as a new PhD student. 
-- *2025.06.30*: Graudate from SYSU! Thanks for my advisors, collabrators, and friends!
+- *2025.06.30*: Graudate from SYSU! Thanks for my advisors, collaborators, and friends!
 
 # Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/proactiveeval.png' alt="sym" width="100%"></div></div>
@@ -36,7 +36,6 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 **Tianjian Liu**, Fanqi Wan, Jiajian Guo, Xiaojun Quan
 
 [**Paper**](https://arxiv.org/abs/2508.20973) | [**Code, Dataset**](https://github.com/liutj9/ProactiveEval)
-
 Proposes a unified evaluation framework to benchmark target planning and guidance capabilities in proactive dialogue agents.
 </div>
 </div>
