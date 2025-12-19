@@ -35,6 +35,7 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 **Tianjian Liu**, Fanqi Wan, Jiajian Guo, Xiaojun Quan
 
 [**Paper**](https://arxiv.org/abs/2508.20973) | [**Code, Dataset**](https://github.com/liutj9/ProactiveEval)
+
 Proposes a unified evaluation framework to benchmark target planning and guidance capabilities in proactive dialogue agents.
 </div>
 </div>
@@ -47,13 +48,14 @@ Proposes a unified evaluation framework to benchmark target planning and guidanc
 **Tianjian Liu**, Hongzheng Zhao, Yuheng Liu, Xingbo Wang, Zhenhui Peng
 
 [**Paper**](https://arxiv.org/abs/2407.18064) | [**Code**](https://github.com/liutj9/ComPeer)
+
 Develops a proactive agent that can provide personalized caring and self-disclosure with the user, improving peer support effectiveness and user engagement.
 </div>
 </div>
 
 # Honors and Awards
-- *2025 - 2029* Postgraduate Studentship, Fok Ying Tung Graduate School, HKUST(GZ).
-- *2023, 2024* The second-grade scholarship. Sun Yat-sen University.
+- *2025 - 2029*, Postgraduate Studentship, Fok Ying Tung Graduate School, HKUST(GZ).
+- *2023, 2024*, The second-grade scholarship. Sun Yat-sen University.
 
 # Educations
 - *2025.08 - present*, PhD in Computational Media and Arts
@@ -70,4 +72,3 @@ These following works have deeply moved and encouraged me:
 - [Sound! Euphonium](https://en.wikipedia.org/wiki/Sound!_Euphonium)
 - [A Place Further Than The Universe](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe)
 - [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako)
-- (https://www.youtube.com/watch?v=9O2VyUM5MlQ)
