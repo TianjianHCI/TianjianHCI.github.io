@@ -35,7 +35,8 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 
 **Tianjian Liu**, Fanqi Wan, Jiajian Guo, Xiaojun Quan
 
-[**Paper**](https://arxiv.org/abs/2508.20973) | [**Code, Dataset**](https://github.com/liutj9/ProactiveEval)
+[**Paper**](https://arxiv.org/abs/2508.20973)  [**Code, Dataset**](https://github.com/liutj9/ProactiveEval)
+
 Proposes a unified evaluation framework to benchmark target planning and guidance capabilities in proactive dialogue agents.
 </div>
 </div>
@@ -47,7 +48,7 @@ Proposes a unified evaluation framework to benchmark target planning and guidanc
 
 **Tianjian Liu**, Hongzheng Zhao, Yuheng Liu, Xingbo Wang, Zhenhui Peng
 
-[**Paper**](https://arxiv.org/abs/2407.18064)| [**Code**](https://github.com/liutj9/ComPeer)
+[**Paper**](https://arxiv.org/abs/2407.18064)  [**Code**](https://github.com/liutj9/ComPeer)
 
 Develops a proactive agent that can provide personalized caring and self-disclosure with the user, improving peer support effectiveness and user engagement.
 </div>
