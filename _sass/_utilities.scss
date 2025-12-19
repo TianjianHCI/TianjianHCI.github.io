@@ -282,6 +282,15 @@ body:hover .visually-hidden button {
   .fa-xing-square {
     color: $xing-color;
   }
+
+  /* Custom SVG icons */
+  .custom-icon {
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.125em;
+    display: inline-block;
+    margin-right: 0.25em;
+  }
 }
 
 

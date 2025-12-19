@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Tianjian's Academic Homepage"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, this is Tianjian. I am currently a PhD student at [ArkLab, HKUST(GZ)](https://arkxlab.github.io/), where I am supervised by [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/). My research focuses on human-computer interaction (HCI), with an emphasis on developing systems that enhance **synchronous collaboration** between humans and language models. To achieve this goal, I concentrate on model **proactivity, personalization, and guidance** in human-AI collaboration. Additionally, I am interested in **empirical research** in HCI and AI, such as understanding people in HCI and evaluation in AI.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Previously, I received the bacholar degree in Sun Yat-sen University, where I am supervised by [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan) in LLMs and [Prof. Zhenhui Peng](https://zhenhuipeng.com/) in HCI.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.11.20*: Attending ICHEC 2025 in Singapore.
+- *2025.08.20*: Joined HKUST(GZ) as a new PhD student. 
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/proactiveeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents](https://arxiv.org/abs/2508.20973)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Tianjian Liu**, Fanqi Wan, Jiajian Guo, Xiaojun Quan
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Paper**](https://arxiv.org/abs/2508.20973) | [**Code & Dataset**](https://github.com/liutj9/ProactiveEval)
+- Proposes a unified evaluation framework to benchmark target planning and guidance capabilities in proactive dialogue agents.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2024</div><img src='images/compeer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[Compeer: A generative conversational agent for proactive peer support](https://arxiv.org/pdf/2407.18064)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Tianjian Liu**, Hongzheng Zhao, Yuheng Liu, Xingbo Wang, Zhenhui Peng
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[**Paper**](https://arxiv.org/abs/2407.18064) | [**Code**](https://github.com/liutj9/ComPeer)
+- Develops a proactive agent that can provide personalized caring and self-disclosure with the user, improving peer support effectiveness and user engagement.
+</div>
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Honors and Awards
+- *2025 - 2029* Postgraduate Studentship, Fok Ying Tung Graduate School, HKUST(GZ).
+- *2023, 2024* The second-grade scholarship. Sun Yat-sen University.
+
+# Educations
+- *2025.08 - present*, PhD in Computational Media and Arts
+- *2021.09 - 2025.06*, Bacholar in School of Computer Science and Engineering, Sun Yat-sen University.
+
+# Habits
+I am fan of ACGN (Animations, Comics, Games, and Novels). Some awesome works are not only a source of joy and relaxation, but may also bring some encouragement for my research :). I am also dedicated to observing, using and building AI tools or communities related to the ACGN.
+
+These following works have deeply moved and encouraged me:
+
+- [Revue Starlight](https://en.wikipedia.org/wiki/Revue_Starlight)
+- [Sound! Euphonium](https://en.wikipedia.org/wiki/Sound!_Euphonium)
+- [A Place Further Than The Universe](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe)
+- [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako)
+

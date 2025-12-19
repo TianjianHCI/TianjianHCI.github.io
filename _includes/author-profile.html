@@ -94,6 +94,15 @@
       {% if author.weibo %}
         <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i> Weibo</a></li>
       {% endif %}
+      {% if author.blog_chinese %}
+        <li><a href="{{ author.blog_chinese }}"><img src="assets/icons/blog.svg" alt="Blog" class="custom-icon" aria-hidden="true"> Blog (Chinese)</a></li>
+      {% endif %}
+      {% if author.zhihu %}
+        <li><a href="{{ author.zhihu }}"><img src="assets/icons/zhihu.svg" alt="Zhihu" class="custom-icon" aria-hidden="true"> Zhihu</a></li>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}"><img src="assets/icons/xiaohongshu.svg" alt="Xiaohongshu" class="custom-icon" aria-hidden="true"> Xiaohongshu</a></li>
+      {% endif %}
       {% if author.flickr %}
         <li><a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i> Flickr</a></li>
       {% endif %}
@@ -188,6 +197,15 @@
       {% endif %}
       {% if author.weibo %}
         <a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.blog_chinese %}
+        <a href="{{ author.blog_chinese }}"><img src="assets/icons/blog.svg" alt="Blog" class="custom-icon" aria-hidden="true"></a>
+      {% endif %}
+      {% if author.zhihu %}
+        <a href="{{ author.zhihu }}"><img src="assets/icons/zhihu.svg" alt="Zhihu" class="custom-icon" aria-hidden="true"></a>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}"><img src="assets/icons/xiaohongshu.svg" alt="Xiaohongshu" class="custom-icon" aria-hidden="true"></a>
       {% endif %}
       {% if author.flickr %}
         <a href="https://www.flickr.com/{{ author.flickr }}"><i class="fab fa-fw fa-flickr" aria-hidden="true"></i></a>
