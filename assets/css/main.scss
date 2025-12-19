@@ -65,6 +65,39 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        
+        // 减小段落间距
+        p {
+            margin: 0.3em 0;
+            line-height: 1.5;
+        }
+        
+        // 减小链接之间的间距（当链接在同一段落时）
+        p a {
+            margin: 0 0.3em;
+            
+            &:first-child {
+                margin-left: 0;
+            }
+        }
+        
+        // 去除分割线（hr 标签）
+        hr {
+            display: none;
+            margin: 0;
+            border: none;
+        }
+        
+        // 去除链接段落和介绍段落之间的额外间距
+        p + p {
+            margin-top: 0.5em;
+        }
+        
+        // 如果段落只包含链接，减小底部间距
+        p:only-child,
+        p:last-child {
+            margin-bottom: 0.3em;
+        }
     }
     
     @include breakpoint($medium) {

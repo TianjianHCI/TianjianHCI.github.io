@@ -47,7 +47,7 @@ Proposes a unified evaluation framework to benchmark target planning and guidanc
 
 **Tianjian Liu**, Hongzheng Zhao, Yuheng Liu, Xingbo Wang, Zhenhui Peng
 
-[**Paper**](https://arxiv.org/abs/2407.18064) | [**Code**](https://github.com/liutj9/ComPeer)
+[**Paper**](https://arxiv.org/abs/2407.18064)| [**Code**](https://github.com/liutj9/ComPeer)
 
 Develops a proactive agent that can provide personalized caring and self-disclosure with the user, improving peer support effectiveness and user engagement.
 </div>
