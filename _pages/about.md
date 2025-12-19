@@ -34,8 +34,8 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 
 **Tianjian Liu**, Fanqi Wan, Jiajian Guo, Xiaojun Quan
 
-[**Paper**](https://arxiv.org/abs/2508.20973) | [**Code & Dataset**](https://github.com/liutj9/ProactiveEval)
-- Proposes a unified evaluation framework to benchmark target planning and guidance capabilities in proactive dialogue agents.
+[**Paper**](https://arxiv.org/abs/2508.20973) | [**Code, Dataset**](https://github.com/liutj9/ProactiveEval)
+Proposes a unified evaluation framework to benchmark target planning and guidance capabilities in proactive dialogue agents.
 </div>
 </div>
 
@@ -47,7 +47,8 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 **Tianjian Liu**, Hongzheng Zhao, Yuheng Liu, Xingbo Wang, Zhenhui Peng
 
 [**Paper**](https://arxiv.org/abs/2407.18064) | [**Code**](https://github.com/liutj9/ComPeer)
-- Develops a proactive agent that can provide personalized caring and self-disclosure with the user, improving peer support effectiveness and user engagement.
+Develops a proactive agent that can provide personalized caring and self-disclosure with the user, improving peer support effectiveness and user engagement.
+</div>
 </div>
 
 # Honors and Awards
@@ -58,7 +59,9 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 - *2025.08 - present*, PhD in Computational Media and Arts
 - *2021.09 - 2025.06*, Bacholar in School of Computer Science and Engineering, Sun Yat-sen University.
 
-# Habits
+# Life
+I maintain a [Chinese Blog](https://liutj9.github.io/) for research reflections or informal notes.
+
 I am fan of ACGN (Animations, Comics, Games, and Novels). Some awesome works are not only a source of joy and relaxation, but may also bring some encouragement for my research :). I am also dedicated to observing, using and building AI tools or communities related to the ACGN.
 
 These following works have deeply moved and encouraged me:
@@ -67,4 +70,4 @@ These following works have deeply moved and encouraged me:
 - [Sound! Euphonium](https://en.wikipedia.org/wiki/Sound!_Euphonium)
 - [A Place Further Than The Universe](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe)
 - [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako)
-
+- (https://www.youtube.com/watch?v=9O2VyUM5MlQ)

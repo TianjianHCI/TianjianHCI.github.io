@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Tianjian Liu"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD student at ArkLab, HKUST(GZ)"
+  avatar           : "images/avatar.png"
+  bio              : "First year PhD student in Large Language Models and Human-Computer Interaction"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
