@@ -23,8 +23,9 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 
 
 # 🔥 News
-- *2025.11.20*: Attending ICHEC 2025 in Singapore.
-- *2025.08.20*: Joined HKUST(GZ) as a new PhD student. 
+- *2025.11.20*: Attend ICHEC 2025 in Singapore.
+- *2025.08.20*: Join HKUST(GZ) as a new PhD student. 
+- *2025.06.30*: Graudate from SYSU! Thanks for my advisors, collabrators, and friends!
 
 # Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/proactiveeval.png' alt="sym" width="100%"></div></div>
@@ -58,7 +59,7 @@ Develops a proactive agent that can provide personalized caring and self-disclos
 - *2023, 2024*, The second-grade scholarship. Sun Yat-sen University.
 
 # Educations
-- *2025.08 - present*, PhD in Computational Media and Arts
+- *2025.08 - present*, PhD student in Computational Media and Arts, HKUST(GZ).
 - *2021.09 - 2025.06*, Bacholar in School of Computer Science and Engineering, Sun Yat-sen University.
 
 # Life
