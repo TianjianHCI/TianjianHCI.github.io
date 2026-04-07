@@ -23,6 +23,8 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 
 
 # 🔥 News
+- *2026.04.07*: One paper is accepted by ACL 2026! Thanks for my supervisor and co-authors!
+- *2026.04.05*: Will Attend CHI 2026 at Barcelona!
 - *2025.11.20*: Attend ICHEC 2025 in Singapore.
 - *2025.08.20*: Join HKUST(GZ) as a new PhD student. 
 - *2025.06.30*: Graudate from SYSU! Thanks for my advisors, collaborators, and friends!
@@ -73,3 +75,5 @@ These following works have deeply moved and encouraged me:
 - [Sound! Euphonium](https://en.wikipedia.org/wiki/Sound!_Euphonium)
 - [A Place Further Than The Universe](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe)
 - [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako)
+- [BanG Dream! It's MyGO!!!!!](https://en.wikipedia.org/wiki/MyGO!!!!!)
+
