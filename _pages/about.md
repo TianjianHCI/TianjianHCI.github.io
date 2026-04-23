@@ -17,7 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Tianjian. I am currently a PhD student at [ArkLab, HKUST(GZ)](https://arkxlab.github.io/), where I am supervised by [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/). My research focuses on human-computer interaction (HCI), with an emphasis on developing systems that enhance **synchronous collaboration** between humans and language models. To achieve this goal, I concentrate on model **proactivity, personalization, and guidance** in human-AI collaboration. Additionally, I am interested in **empirical research** in HCI and AI, such as understanding people in HCI and evaluation in AI.
+Hi, this is Tianjian. I am currently a first-year PhD student at [ArkLab, HKUST(GZ)](https://arkxlab.github.io/), where I am supervised by [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/). My research lies at the intersection of human-computer interaction (HCI) and Language Models (LMs). Specifically, I am passionate about the following questions:
+
+1. How can we foster synchronous human-AI collaboration that enhances productivity while preserving user agency?
+2. How can AI reveal users' unknown unknowns to augment human cognition?
+3. How can we evaluate, elicit, and enhance models' intrinsic cooperativity, proactivity, and guidance?
+
+Additionally, I am interested in **empirical research** in HCI and AI, such as understanding people in HCI and evaluation in AI. 
 
 Previously, I received the bacholar degree in Sun Yat-sen University, where I am supervised by [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan) in LLMs and [Prof. Zhenhui Peng](https://zhenhuipeng.com/) in HCI.
 
@@ -30,7 +36,7 @@ Previously, I received the bacholar degree in Sun Yat-sen University, where I am
 - *2025.06.30*: Graudate from SYSU! Thanks for my advisors, collaborators, and friends!
 
 # Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/proactiveeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/proactiveeval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ProactiveEval: A Unified Evaluation Framework for Proactive Dialogue Agents](https://arxiv.org/abs/2508.20973)
@@ -69,7 +75,7 @@ I maintain a [Chinese Blog](https://liutj9.github.io/) for research reflections 
 
 I am fan of ACGN (Animations, Comics, Games, and Novels). Some awesome works are not only a source of joy and relaxation, but may also bring some encouragement for my research :). I am also dedicated to observing, using and building AI tools or communities related to the ACGN.
 
-These following works have deeply moved and encouraged me:
+These following works have moved and encouraged me:
 
 - [Revue Starlight](https://en.wikipedia.org/wiki/Revue_Starlight)
 - [Sound! Euphonium](https://en.wikipedia.org/wiki/Sound!_Euphonium)
