@@ -17,23 +17,24 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, this is Tianjian. I am currently a first-year PhD student at [ArkLab, HKUST(GZ)](https://arkxlab.github.io/), where I am supervised by [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/). My research lies at the intersection of human-computer interaction (HCI) and Language Models (LMs). Specifically, I am passionate about the following questions:
+Hi, this is Tianjian. I am currently a second-year PhD student at [ArkLab, HKUST(GZ)](https://arkxlab.github.io/), where I am supervised by [Prof. Xin Tong](https://cma.hkust-gz.edu.cn/people/tong-xin/). My research lies at the intersection of human-computer interaction (HCI) and Language Models (LMs). Specifically, I am passionate about the following questions:
 
-1. How can we foster synchronous human-AI collaboration that enhances productivity while preserving user agency?
-2. How can AI reveal users' unknown unknowns to augment human cognition?
-3. How can we evaluate, elicit, and enhance models' intrinsic cooperativity, proactivity, and guidance?
+1. How can we foster Model Proactivity while preserving user agency?
+
+2. How can we evaluate, elicit, and enhance models' intrinsic cooperativity?
 
 Additionally, I am interested in **empirical research** in HCI and AI, such as understanding people in HCI and evaluation in AI. 
 
 Previously, I received the bacholar degree in Sun Yat-sen University, where I am supervised by [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan) in LLMs and [Prof. Zhenhui Peng](https://zhenhuipeng.com/) in HCI.
 
+Currently, I am visiting in Singapore Management University, working with [Prof. Jiannan Li](https://jchrisli.github.io/).
 
 # 🔥 News
+- *2026.07.10*: Arrived at Singapore Management University as a visiting student. Looking forward to the new chapter here!
 - *2026.04.07*: One paper is accepted by ACL 2026! Thanks for my supervisor and co-authors!
 - *2026.04.05*: Will Attend CHI 2026 at Barcelona!
-- *2025.11.20*: Attend ICHEC 2025 in Singapore.
 - *2025.08.20*: Join HKUST(GZ) as a new PhD student. 
-- *2025.06.30*: Graudate from SYSU! Thanks for my advisors, collaborators, and friends!
+
 
 # Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/proactiveeval.png' alt="sym" width="100%"></div></div>
@@ -82,4 +83,4 @@ These following works have moved and encouraged me:
 - [A Place Further Than The Universe](https://en.wikipedia.org/wiki/A_Place_Further_than_the_Universe)
 - [SHIROBAKO](https://en.wikipedia.org/wiki/Shirobako)
 - [BanG Dream! It's MyGO!!!!!](https://en.wikipedia.org/wiki/MyGO!!!!!)
-
+- [Cosmic Princess Kaguya!](https://en.wikipedia.org/wiki/Cosmic_Princess_Kaguya!)
