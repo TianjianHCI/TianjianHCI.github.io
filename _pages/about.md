@@ -25,9 +25,9 @@ Hi, this is Tianjian. I am currently a second-year PhD student at [ArkLab, HKUST
 
 Additionally, I am interested in **empirical research** in HCI and AI, such as understanding people in HCI and evaluation in AI. 
 
-Previously, I received the bacholar degree in Sun Yat-sen University, where I am supervised by [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan) in LLMs and [Prof. Zhenhui Peng](https://zhenhuipeng.com/) in HCI.
+Previously, I received my bachelor's degree from Sun Yat-sen University, where I was supervised by [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan) in LLMs and [Prof. Zhenhui Peng](https://zhenhuipeng.com/) in HCI.
 
-Currently, I am visiting in Singapore Management University, working with [Prof. Jiannan Li](https://jchrisli.github.io/).
+I am currently a visiting student at Singapore Management University, working with [Prof. Jiannan Li](https://jchrisli.github.io/).
 
 # 🔥 News
 - *2026.07.10*: Arrived at Singapore Management University as a visiting student. Looking forward to the new chapter here!
